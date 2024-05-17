@@ -1,3 +1,6 @@
+# No longer maintained
+
+
 # Await Status Action <a href="https://github.com/Sibz/await-status-action"><img alt="await-status-action status"   src="https://github.com/Sibz/await-status-action/workflows/test/badge.svg"></a>
 
 Waits for a status or multiple statuses to complete or fail.
